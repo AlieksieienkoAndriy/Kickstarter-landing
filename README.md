@@ -6,4 +6,4 @@ landing page according to [Figma design](https://www.figma.com/file/5jdcVOv7NiA0
 - Tablet 768px
 - Mobile (> 320px)
 
-[DEMO LINK](https://alieksieienkoandriy.github.io/Kickstarter-landing/)
+[DEMO LINK](https://alieksieienkoandriy.github.io/Kickstarter-landing/index.html)
